@@ -43,9 +43,7 @@
  .hero-content,p{
    font-size: 22px;
  }
- .hero-content btn{
-   padding: 600px, 60px, 650px, 617px;
- }
+ 
  .container{
    max-width: 1350px;
    
@@ -63,3 +61,30 @@
     text-align: center;
     padding: 10px 0;
   }
+  .hero-btn{
+     padding-top: 150px;
+  }
+  .price-card-title {
+    
+    text-align: center;
+  
+}
+.price-card-title p{
+   font-size: 12px;
+
+}
+ 
+.price-card-btn{
+    border: 1px solid #2563eb;
+    color:#2563eb;
+    padding: 8px 45px;
+    align-items: center;
+}
+.price-card-container{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.standard-card{
+    text-align: center;
+}
