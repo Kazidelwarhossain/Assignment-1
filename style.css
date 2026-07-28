@@ -46,3 +46,20 @@
  .hero-content btn{
    padding: 600px, 60px, 650px, 617px;
  }
+ .container{
+   max-width: 1350px;
+   
+ }
+ .speaker-card-container{
+    margin-top: 20px;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap:12px;
+  }
+  .speaker-card{
+    text-align: center;
+  }
+  .container, h2{
+    text-align: center;
+    padding: 10px 0;
+  }
